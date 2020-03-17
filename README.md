@@ -6,8 +6,8 @@ Repository for tutorials on the following:
 3. [How to build a 'Hello World' web app on a LAPP stack tutorial](https://docs.google.com/document/d/1MlTfLZuKEUTONDzJ0mK8ELoJPvYDnS4kV0QO7962TaI/edit)
 
 Team members and their roles:
-1. Conela Alexander - (CMA30TH@gmail.com)- build and document stack 
-2. Clay Christensen - (CTChristensen95@gmail.com) - 
+1. Conela Alexander - (cma30th@gmail.com)- build and document stack 
+2. Clay Christensen - (ctchristensen95@gmail.com) - 
 3. Jenaleigh Fox - (jenaleighfox@gmail.com) - web app
 4. Martin Freiwald - (martinfreiwald708@gmail.com) - web page
 5. Ameer Kiani - (ameer.kiani88@gmail.com) - web page
