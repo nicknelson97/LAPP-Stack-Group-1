@@ -3,7 +3,7 @@
 Repository for tutorials on the following:
 1. [Link to Website describing project](https://nicknelson97.github.io/LAPP-Stack-Group-1/)
 2. [How to build a LAPP stack tutorial](https://docs.google.com/document/d/1BMT24P5FXRwe8VY2EYD4jd3GaRZKYpA7O6dEfJDYthk/edit)
-3. [How to build a 'Hello World' web app on a LAPP stack tutorial](https://docs.google.com/document/d/1OrnLJupKymUdUaVKRkQyIJXHkMOevvPzhg0l425jyaw/edit)
+3. [How to build a 'Hello World' web app on a LAPP stack tutorial](https://docs.google.com/document/d/1MlTfLZuKEUTONDzJ0mK8ELoJPvYDnS4kV0QO7962TaI/edit)
 
 Team members and their roles:
 1. Conela Alexander - (CMA30TH@gmail.com)- build and document stack 
