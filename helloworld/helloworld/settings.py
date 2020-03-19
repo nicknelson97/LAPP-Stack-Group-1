@@ -80,8 +80,8 @@ DATABASES = {
         'NAME': 'hwdb',
         'USER': 'hwapp',
         'PASSWORD': 'P@ssw0rd1',
-        'HOST': 'localhost',
-        'PORT': '',
+        'HOST': '',
+        'PORT': '3000',
     }
 }
 
