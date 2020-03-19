@@ -81,7 +81,7 @@ DATABASES = {
         'USER': 'hwapp',
         'PASSWORD': 'P@ssw0rd1',
         'HOST': '*',
-        'PORT': '',
+        'PORT': '3000',
     }
 }
 
