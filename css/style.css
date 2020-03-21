@@ -21,7 +21,6 @@ body {
     font-family: Arial;
     padding: 10px;
     line-height: 2px;
-    text-shadow: -2px 1px 0px #e7f888;
 }
 
 h3 {
@@ -94,8 +93,8 @@ th, tr, td {
     flex-flow: row;
     justify-content: space-around;
     align-items: stretch;
-    background-color: rgba(247, 189, 103, 0.692);
-    border: 2px solid rgb(68, 175, 73);
+    background-color: #9CC5A1;
+    border: 2px solid #1F2421;
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
